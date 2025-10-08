@@ -1,11 +1,9 @@
 <h1 align="center"> I'm Yasmine Shehata</h1>
 <h3 align="center">A passionate Software Engineering student who is eager to learn</h3>
 
-- 🌱 I’m currently learning **FLUTTER , MERN STACK**
+- 🌱 I’m currently learning **FLUTTER **
 
 - 📫 How to reach me **yshehata047@gmail.com**
-
-- 📄 MY RESUME [https://yasmine-shehata.tiiny.site](https://yasmine-shehata.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
